@@ -1,0 +1,21 @@
+{
+  "name": "Projeto_mSoftware",
+  "homepage": "https://github.com/ezequielmuxito/Projeto_mSoftware",
+  "authors": [
+    "Ezequiel Muxito <ezequiel_muxito.hotmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
